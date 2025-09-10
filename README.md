@@ -4,25 +4,11 @@ An interactive, feature-rich Android application designed to guide developers th
 
 ## Screenshots
 
-| A | B | C |
-| :---: | :---: | :---: |
-| ![Main Screen Dark Mode](./screenshots/photo_2025-09-09_12-28-40.jpg) | ![Roadmap Detail](./screenshots/photo_2025-09-09_12-28-45.jpg) | ![Step Detail](./screenshots/photo_2025-09-09_12-28-47.jpg) |
-
-| D | E |
-| :---: | :---: |
-| ![Quiz Screen](./screenshots/photo_2025-09-09_12-28-52.jpg) | ![Settings Screen](./screenshots/photo_2025-09-09_12-28-56.jpg) |
-
-| F | G |
-| :---: | :---: |
-| ![Quiz Screen](./screenshots/photo_2025-09-09_12-28-59.jpg) | ![Settings Screen](./screenshots/photo_2025-09-09_12-29-02.jpg) |
-
-| H | I |
-| :---: | :---: |
-| ![Quiz Screen](./screenshots/photo_2025-09-09_12-29-05.jpg) | ![Settings Screen](./screenshots/photo_2025-09-09_12-29-08.jpg) |
-
-| J | K |
-| :---: | :---: |
-| ![Quiz Screen](./screenshots/photo_2025-09-09_12-29-29.jpg) | ![Settings Screen](./screenshots/photo_2025-09-09_12-29-32.jpg) |
+| | | | |
+| :---: | :---: | :---: | :---: |
+| ![A](https://github.com/user-attachments/assets/b3e63e29-6e00-4989-824b-a25c7cb19ee1) | ![B](https://github.com/user-attachments/assets/1ee38750-db1d-49d6-82a3-ecef0976b5a2) | ![C](https://github.com/user-attachments/assets/247b1875-4bcd-48f3-8112-ee508c8c5979) | ![D](https://github.com/user-attachments/assets/8e6d7092-86d1-40e0-b3df-63d03010ae88) |
+| ![E](https://github.com/user-attachments/assets/eef6a509-76f9-4fd7-a23a-f0f5244aa78f) | ![F](https://github.com/user-attachments/assets/dc6767b0-4f13-43f4-94ae-fd7203043124) | ![G](https://github.com/user-attachments/assets/3d4264cc-9851-4477-bce4-abc020e27a22) | ![H](https://github.com/user-attachments/assets/2363559c-667a-4751-8add-54bf466a9101) |
+| ![I](https://github.com/user-attachments/assets/fc97c3bf-d108-4a4c-9430-228d8aa3c7a3) | ![J](https://github.com/user-attachments/assets/a72bc9e6-3a62-4de2-ac86-9a52d5f83ca9) | ![K](https://github.com/user-attachments/assets/92038be3-a09d-4a70-88eb-50852e74fe79) | |
 
 ## ✨ Features
 - **Dynamic Content:** Fetches all roadmap data from a remote API, with a fallback to local data for offline use.
